@@ -1,0 +1,51 @@
+.color{
+    background-color: lightslategrey;
+    margin-left: -8px;
+    margin-right: -8px;
+}
+.text{
+    margin-left: 10px;
+}
+h1{
+    font-size: 30px;
+}
+.link{
+    width: 100%;
+    background-color: aquamarine;
+    font-size: 20px;
+    position: fixed;
+    margin-left: -8px;
+    margin-top: -30px;
+}
+.link a{
+    justify-content: space-evenly;
+    margin-left: 80px;
+}
+/* h1{
+    color: chartreuse;
+} */
+.timing{
+    width: 100%;
+    /* background-color: cadetblue; */
+}
+.timing h2{
+    color: black;
+}
+.timing h3{
+    color: darkslategray;
+}
+
+/* Facilities */
+
+.facilities h1{
+    color: yellow;
+    line-height: 10%;
+    text-align: justify;
+}
+.facilities p{
+    font-size: 20px;
+}
+.facilities img{
+    width: 30%;
+    margin-left: 2%;
+}
